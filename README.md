@@ -96,3 +96,5 @@ main.py  → retrieval + generation
 ```
 
 Run `index.py` only when your documents change.
+
+<img width="1728" height="705" alt="image" src="https://github.com/user-attachments/assets/cbb6e260-0570-4995-b293-05a1439532f2" />
